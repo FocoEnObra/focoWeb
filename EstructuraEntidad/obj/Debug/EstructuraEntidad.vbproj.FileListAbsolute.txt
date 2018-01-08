@@ -1,0 +1,145 @@
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\bin\Debug\EstructuraEntidad.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\bin\Debug\EstructuraEntidad.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\bin\Debug\EstructuraEntidad.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\bin\Debug\ServiciosUtilidades.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\bin\Debug\TSHAK.Components.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\bin\Debug\ServiciosUtilidades.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\bin\Debug\ServiciosUtilidades.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\obj\Debug\EstructuraEntidad.vbprojResolveAssemblyReference.cache
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\obj\Debug\EL.Resources.resources
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\obj\Debug\EstructuraEntidad.vbproj.GenerateResource.Cache
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\obj\Debug\EstructuraEntidad.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\obj\Debug\EstructuraEntidad.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\obj\Debug\EstructuraEntidad.pdb
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\bin\Debug\EstructuraEntidad.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\bin\Debug\EstructuraEntidad.pdb
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\bin\Debug\EstructuraEntidad.xml
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\bin\Debug\ServiciosUtilidades.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\bin\Debug\System.Net.Http.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\bin\Debug\TSHAK.Components.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\bin\Debug\ServiciosUtilidades.pdb
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\bin\Debug\ServiciosUtilidades.xml
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\bin\Debug\System.Net.Http.xml
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\bin\Debug\es\System.Net.Http.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\obj\Debug\EstructuraEntidad.vbprojResolveAssemblyReference.cache
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\obj\Debug\EL.Resources.resources
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\obj\Debug\EstructuraEntidad.vbproj.GenerateResource.Cache
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\obj\Debug\EstructuraEntidad.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\obj\Debug\EstructuraEntidad.xml
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\obj\Debug\EstructuraEntidad.pdb
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\EstructuraEntidad\bin\Debug\EstructuraEntidad.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\EstructuraEntidad\bin\Debug\EstructuraEntidad.pdb
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\EstructuraEntidad\bin\Debug\EstructuraEntidad.xml
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\EstructuraEntidad\bin\Debug\ServiciosUtilidades.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\EstructuraEntidad\bin\Debug\TSHAK.Components.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\EstructuraEntidad\bin\Debug\ServiciosUtilidades.pdb
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\EstructuraEntidad\bin\Debug\ServiciosUtilidades.xml
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\EstructuraEntidad\obj\Debug\EstructuraEntidad.vbprojResolveAssemblyReference.cache
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\EstructuraEntidad\obj\Debug\EL.Resources.resources
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\EstructuraEntidad\obj\Debug\EstructuraEntidad.vbproj.GenerateResource.Cache
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\EstructuraEntidad\obj\Debug\EstructuraEntidad.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\EstructuraEntidad\obj\Debug\EstructuraEntidad.xml
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\EstructuraEntidad\obj\Debug\EstructuraEntidad.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\EstructuraEntidad\bin\Debug\EstructuraEntidad.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\EstructuraEntidad\bin\Debug\EstructuraEntidad.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\EstructuraEntidad\bin\Debug\EstructuraEntidad.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\EstructuraEntidad\bin\Debug\ServiciosUtilidades.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\EstructuraEntidad\bin\Debug\TSHAK.Components.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\EstructuraEntidad\bin\Debug\ServiciosUtilidades.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\EstructuraEntidad\bin\Debug\ServiciosUtilidades.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\EstructuraEntidad\obj\Debug\EstructuraEntidad.vbprojResolveAssemblyReference.cache
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\EstructuraEntidad\obj\Debug\EL.Resources.resources
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\EstructuraEntidad\obj\Debug\EstructuraEntidad.vbproj.GenerateResource.Cache
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\EstructuraEntidad\obj\Debug\EstructuraEntidad.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\EstructuraEntidad\obj\Debug\EstructuraEntidad.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\EstructuraEntidad\obj\Debug\EstructuraEntidad.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\EstructuraEntidad\bin\Debug\EstructuraEntidad.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\EstructuraEntidad\bin\Debug\EstructuraEntidad.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\EstructuraEntidad\bin\Debug\EstructuraEntidad.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\EstructuraEntidad\bin\Debug\ServiciosUtilidades.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\EstructuraEntidad\bin\Debug\TSHAK.Components.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\EstructuraEntidad\bin\Debug\ServiciosUtilidades.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\EstructuraEntidad\bin\Debug\ServiciosUtilidades.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\EstructuraEntidad\obj\Debug\EstructuraEntidad.vbprojResolveAssemblyReference.cache
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\EstructuraEntidad\obj\Debug\EL.Resources.resources
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\EstructuraEntidad\obj\Debug\EstructuraEntidad.vbproj.GenerateResource.Cache
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\EstructuraEntidad\obj\Debug\EstructuraEntidad.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\EstructuraEntidad\obj\Debug\EstructuraEntidad.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\EstructuraEntidad\obj\Debug\EstructuraEntidad.pdb
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\EstructuraEntidad\bin\Debug\EstructuraEntidad.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\EstructuraEntidad\bin\Debug\EstructuraEntidad.pdb
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\EstructuraEntidad\bin\Debug\EstructuraEntidad.xml
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\EstructuraEntidad\bin\Debug\ServiciosUtilidades.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\EstructuraEntidad\bin\Debug\TSHAK.Components.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\EstructuraEntidad\bin\Debug\ServiciosUtilidades.pdb
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\EstructuraEntidad\bin\Debug\ServiciosUtilidades.xml
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\EstructuraEntidad\obj\Debug\EstructuraEntidad.vbprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\EstructuraEntidad\obj\Debug\EL.Resources.resources
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\EstructuraEntidad\obj\Debug\EstructuraEntidad.vbproj.GenerateResource.Cache
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\EstructuraEntidad\obj\Debug\EstructuraEntidad.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\EstructuraEntidad\obj\Debug\EstructuraEntidad.xml
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\EstructuraEntidad\obj\Debug\EstructuraEntidad.pdb
+D:\FocoEnObraV16\FocoEnObraV16\FocoEnObra Version Final\EstructuraEntidad\bin\Debug\EstructuraEntidad.dll
+D:\FocoEnObraV16\FocoEnObraV16\FocoEnObra Version Final\EstructuraEntidad\bin\Debug\EstructuraEntidad.pdb
+D:\FocoEnObraV16\FocoEnObraV16\FocoEnObra Version Final\EstructuraEntidad\bin\Debug\EstructuraEntidad.xml
+D:\FocoEnObraV16\FocoEnObraV16\FocoEnObra Version Final\EstructuraEntidad\bin\Debug\ServiciosUtilidades.dll
+D:\FocoEnObraV16\FocoEnObraV16\FocoEnObra Version Final\EstructuraEntidad\bin\Debug\System.Net.Http.dll
+D:\FocoEnObraV16\FocoEnObraV16\FocoEnObra Version Final\EstructuraEntidad\bin\Debug\TSHAK.Components.dll
+D:\FocoEnObraV16\FocoEnObraV16\FocoEnObra Version Final\EstructuraEntidad\bin\Debug\ServiciosUtilidades.pdb
+D:\FocoEnObraV16\FocoEnObraV16\FocoEnObra Version Final\EstructuraEntidad\bin\Debug\ServiciosUtilidades.xml
+D:\FocoEnObraV16\FocoEnObraV16\FocoEnObra Version Final\EstructuraEntidad\bin\Debug\System.Net.Http.xml
+D:\FocoEnObraV16\FocoEnObraV16\FocoEnObra Version Final\EstructuraEntidad\bin\Debug\es\System.Net.Http.resources.dll
+D:\FocoEnObraV16\FocoEnObraV16\FocoEnObra Version Final\EstructuraEntidad\obj\Debug\EstructuraEntidad.vbprojResolveAssemblyReference.cache
+D:\FocoEnObraV16\FocoEnObraV16\FocoEnObra Version Final\EstructuraEntidad\obj\Debug\EL.Resources.resources
+D:\FocoEnObraV16\FocoEnObraV16\FocoEnObra Version Final\EstructuraEntidad\obj\Debug\EstructuraEntidad.vbproj.GenerateResource.Cache
+D:\FocoEnObraV16\FocoEnObraV16\FocoEnObra Version Final\EstructuraEntidad\obj\Debug\EstructuraEntidad.dll
+D:\FocoEnObraV16\FocoEnObraV16\FocoEnObra Version Final\EstructuraEntidad\obj\Debug\EstructuraEntidad.xml
+D:\FocoEnObraV16\FocoEnObraV16\FocoEnObra Version Final\EstructuraEntidad\obj\Debug\EstructuraEntidad.pdb
+C:\Users\Mauro\Source\Repos\FocowebModuloCalidad\EstructuraEntidad\bin\Debug\EstructuraEntidad.dll
+C:\Users\Mauro\Source\Repos\FocowebModuloCalidad\EstructuraEntidad\bin\Debug\EstructuraEntidad.pdb
+C:\Users\Mauro\Source\Repos\FocowebModuloCalidad\EstructuraEntidad\bin\Debug\EstructuraEntidad.xml
+C:\Users\Mauro\Source\Repos\FocowebModuloCalidad\EstructuraEntidad\bin\Debug\ServiciosUtilidades.dll
+C:\Users\Mauro\Source\Repos\FocowebModuloCalidad\EstructuraEntidad\bin\Debug\System.Net.Http.dll
+C:\Users\Mauro\Source\Repos\FocowebModuloCalidad\EstructuraEntidad\bin\Debug\TSHAK.Components.dll
+C:\Users\Mauro\Source\Repos\FocowebModuloCalidad\EstructuraEntidad\bin\Debug\ServiciosUtilidades.pdb
+C:\Users\Mauro\Source\Repos\FocowebModuloCalidad\EstructuraEntidad\bin\Debug\ServiciosUtilidades.xml
+C:\Users\Mauro\Source\Repos\FocowebModuloCalidad\EstructuraEntidad\bin\Debug\System.Net.Http.xml
+C:\Users\Mauro\Source\Repos\FocowebModuloCalidad\EstructuraEntidad\bin\Debug\es\System.Net.Http.resources.dll
+C:\Users\Mauro\Source\Repos\FocowebModuloCalidad\EstructuraEntidad\obj\Debug\EstructuraEntidad.vbprojResolveAssemblyReference.cache
+C:\Users\Mauro\Source\Repos\FocowebModuloCalidad\EstructuraEntidad\obj\Debug\EL.Resources.resources
+C:\Users\Mauro\Source\Repos\FocowebModuloCalidad\EstructuraEntidad\obj\Debug\EstructuraEntidad.vbproj.GenerateResource.Cache
+C:\Users\Mauro\Source\Repos\FocowebModuloCalidad\EstructuraEntidad\obj\Debug\EstructuraEntidad.dll
+C:\Users\Mauro\Source\Repos\FocowebModuloCalidad\EstructuraEntidad\obj\Debug\EstructuraEntidad.xml
+C:\Users\Mauro\Source\Repos\FocowebModuloCalidad\EstructuraEntidad\obj\Debug\EstructuraEntidad.pdb
+D:\focoWEB\EstructuraEntidad\bin\Debug\EstructuraEntidad.dll
+D:\focoWEB\EstructuraEntidad\bin\Debug\EstructuraEntidad.pdb
+D:\focoWEB\EstructuraEntidad\bin\Debug\EstructuraEntidad.xml
+D:\focoWEB\EstructuraEntidad\bin\Debug\ServiciosUtilidades.dll
+D:\focoWEB\EstructuraEntidad\bin\Debug\System.Net.Http.dll
+D:\focoWEB\EstructuraEntidad\bin\Debug\TSHAK.Components.dll
+D:\focoWEB\EstructuraEntidad\bin\Debug\ServiciosUtilidades.pdb
+D:\focoWEB\EstructuraEntidad\bin\Debug\ServiciosUtilidades.xml
+D:\focoWEB\EstructuraEntidad\bin\Debug\System.Net.Http.xml
+D:\focoWEB\EstructuraEntidad\bin\Debug\es\System.Net.Http.resources.dll
+D:\focoWEB\EstructuraEntidad\obj\Debug\EstructuraEntidad.vbprojResolveAssemblyReference.cache
+D:\focoWEB\EstructuraEntidad\obj\Debug\EL.Resources.resources
+D:\focoWEB\EstructuraEntidad\obj\Debug\EstructuraEntidad.vbproj.GenerateResource.Cache
+D:\focoWEB\EstructuraEntidad\obj\Debug\EstructuraEntidad.dll
+D:\focoWEB\EstructuraEntidad\obj\Debug\EstructuraEntidad.xml
+D:\focoWEB\EstructuraEntidad\obj\Debug\EstructuraEntidad.pdb
+C:\git\focoWeb\EstructuraEntidad\bin\Debug\EstructuraEntidad.dll
+C:\git\focoWeb\EstructuraEntidad\bin\Debug\EstructuraEntidad.pdb
+C:\git\focoWeb\EstructuraEntidad\bin\Debug\EstructuraEntidad.xml
+C:\git\focoWeb\EstructuraEntidad\bin\Debug\ServiciosUtilidades.dll
+C:\git\focoWeb\EstructuraEntidad\bin\Debug\System.Net.Http.dll
+C:\git\focoWeb\EstructuraEntidad\bin\Debug\TSHAK.Components.dll
+C:\git\focoWeb\EstructuraEntidad\bin\Debug\ServiciosUtilidades.pdb
+C:\git\focoWeb\EstructuraEntidad\bin\Debug\ServiciosUtilidades.xml
+C:\git\focoWeb\EstructuraEntidad\bin\Debug\System.Net.Http.xml
+C:\git\focoWeb\EstructuraEntidad\bin\Debug\es\System.Net.Http.resources.dll
+C:\git\focoWeb\EstructuraEntidad\obj\Debug\EstructuraEntidad.vbprojResolveAssemblyReference.cache
+C:\git\focoWeb\EstructuraEntidad\obj\Debug\EL.Resources.resources
+C:\git\focoWeb\EstructuraEntidad\obj\Debug\EstructuraEntidad.vbproj.GenerateResource.Cache
+C:\git\focoWeb\EstructuraEntidad\obj\Debug\EstructuraEntidad.dll
+C:\git\focoWeb\EstructuraEntidad\obj\Debug\EstructuraEntidad.xml
+C:\git\focoWeb\EstructuraEntidad\obj\Debug\EstructuraEntidad.pdb
